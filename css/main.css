@@ -1,0 +1,26 @@
+body {
+  color: #666;
+  font: 16px/2 Verdana, sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f07c17;
+  margin-bottom: 29px;
+}
+
+.title {
+  font-size: 48px;
+  margin-top: 46px;
+}
+
+.mug {
+  margin-top: 20px;
+}
+
+.features {
+  border: 1px solid #ccc;
+  margin-top: 30px;
+  padding: 10px 30px 30px;
+}
