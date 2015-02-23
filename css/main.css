@@ -1,9 +1,13 @@
+/* General */
 body {
+  background-color: #fff;
   color: #666;
   font: 16px/2 Verdana, sans-serif;
 }
 
+/* Section Headers */
 h2 {
+  background-color: #fff;
   font-size: 24px;
   font-weight: bold;
   color: #f07c17;
@@ -15,6 +19,7 @@ h2 {
   margin-top: 46px;
 }
 
+/* Section Content */
 .mug {
   margin-top: 20px;
 }
